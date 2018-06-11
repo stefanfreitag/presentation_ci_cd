@@ -1,13 +1,11 @@
 ##  Continuous Integration
 
 
-
 ### What is it about?
 
 > [...] a development practice that requires developers to integrate code into a shared repository several times a day.
 
 ​Source: [ThoughtWorks](https://www.thoughtworks.com/de/continuous-integration)
-
 
 
 ### Benefits
@@ -18,7 +16,6 @@
 - Software metrics generated from automated testing and CI focus developers on quality code
 ​
 (Source: ThoughtWorks/ Wikipedia)
-
 
 
 ### Best practices
@@ -33,7 +30,6 @@
 - Everyone can see the result of the lastest build
 
 ​(Source: ThoughtWorks/ Wikipedia)
-
 
 
 ### Workflow

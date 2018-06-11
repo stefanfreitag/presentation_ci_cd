@@ -1,7 +1,6 @@
 ## Continuous Deployment
 
 
-
 ### What is it about?
 
 <!---
@@ -31,7 +30,3 @@ TODO: Image
 
 TODO: Add image
 (Source: Microservices Patterns)
-
-
-
-### Further reading

@@ -8,7 +8,7 @@
 	<title>reveal.js</title>
 
 	<link rel="stylesheet" href="css/reveal.css">
-	<link rel="stylesheet" href="css/theme/black.css">
+	<link rel="stylesheet" href="css/theme/sky.css">
 
 	<!-- Theme used for syntax highlighting of code -->
 	<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -26,15 +26,18 @@
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section>
-				<!--<section data-markdown="00_title.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
-				</section>-->
-				<section data-markdown="01_continuous_integration.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
-				</section>
-				<section data-markdown="02_continuous_delivery.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
-				</section>
-				<section data-markdown="03_continuous_deployment.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
-				</section>
+			<section data-markdown="00_title.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+			<section data-markdown="01_continuous_integration.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+			<section data-markdown="02_continuous_delivery.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+			<section data-markdown="03_continuous_deployment.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+			<section data-markdown="04_further_reading.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n" data-separator-notes="^Note:" data-charset="utf-8">
+			</section>
+
+
 		</div>
 	</div>
 
@@ -42,14 +45,11 @@
 	<script src="js/reveal.js"></script>
 
 	<script>
-		// More info about config & dependencies:
-		// - https://github.com/hakimel/reveal.js#configuration
-		// - https://github.com/hakimel/reveal.js#dependencies
 		Reveal.initialize({
-			// Factor of the display size that should remain empty around the content
+			controls: true,
+			progress: true,
+			history: true,
 			margin: 0.1,
-
-			// Bounds for smallest/largest possible scale to apply to content
 			minScale: 0.2,
 			maxScale: 1.5,
 			dependencies: [{

@@ -1,7 +1,6 @@
 ## Continuous Delivery
 
 
-
 ### What is it about?
 
 > Continuous delivery is a series of practices designed to ensure that code can be rapidly and safely deployed to production by delivering every change to a production-like environment and ensuring business applications and services function as expected through rigorous automated testing.
@@ -9,7 +8,6 @@
 > Since every change is delivered to a staging environment using complete automation, you can have confidence the application can be deployed to production with a push of a button when the business is ready.
 
 Source: [https://puppet.com/blog/continuous-delivery-vs-continuous-deployment-what-s-diff](https://puppet.com/blog/continuous-delivery-vs-continuous-deployment-what-s-diff)
-
 
 
 ## Benefits
@@ -28,7 +26,6 @@ Source: [https://puppet.com/blog/continuous-delivery-vs-continuous-deployment-wh
 - Happier teams. By removing the low-value painful activities associated with software delivery, we can focus on what we care about most—continuously delighting our users.
 
 [https://continuousdelivery.com/](https://continuousdelivery.com/)
-
 
 
 # Workflow
